@@ -5,7 +5,7 @@ const multer = require('multer');
 const cors = require('cors');
 
 const app = express();
-const port = 30071;
+const port = 3071;
 
 // Middleware
 app.use(express.json());
